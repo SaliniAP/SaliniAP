@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SaliniAP
+- 👋 Hi, I’m Salini
 - 👀 I’m interested in astrophysics and data science!
 - 🌱 I’m currently studying at the University of Waterloo in Physics and Astronomy.
-- 📫 How to reach me ...
+- 📫 You can reach me at spunchiw@uwaterloo.ca
 
 <!---
 SaliniAP/SaliniAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
