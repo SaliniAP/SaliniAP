@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Salini
+- 👋 Hi, I’m Salini ^-^
 - 👀 I’m interested in astrophysics and data science!
-- 🌱 I’m currently studying at the University of Waterloo in Physics and Astronomy.
+- 🌱 I’m currently in my 3rd year studying at the University of Waterloo in Physics and Astronomy.
 - 📫 You can reach me at spunchiw@uwaterloo.ca
 
 <!---
